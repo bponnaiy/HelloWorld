@@ -1,0 +1,5 @@
+Oracle Virtual box.
+VM ware for Oracle 10Home.
+
+
+start-all.sh
