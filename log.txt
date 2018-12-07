@@ -1,0 +1,3 @@
+This is a log for the app
+it provides all details of all
+log entered and committed
